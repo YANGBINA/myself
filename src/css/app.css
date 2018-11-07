@@ -1,0 +1,61 @@
+.first{
+    width: 100%;
+    height: 100%;
+}
+.box{
+    width: 100%;
+    height: 50px;
+    background: #2B5295;
+    color: #fff;
+    float: left;
+    position: relative;
+}
+.box p{
+    width: 140px;
+    float: left;
+}
+.ul{
+    width: 80%;
+    height: 50px;
+    line-height: 50px;
+}
+.ul li{
+        float: left;
+        padding: 0  10px;
+        cursor: pointer;
+   }
+.ul li   a{
+    padding:  0  10px;
+    color: #fff;
+ }
+ .box b{
+     position: absolute;
+     top: 10px;
+     left: 50px;
+ }
+.two{
+    font-size: 10px;
+    position: absolute; 
+    left: 50px;
+    bottom: 2px;
+}
+.sunshine{
+    position: absolute;
+    right: 170px;
+    bottom: 15px;
+    cursor: pointer;
+    font-size: 14px;
+}
+.info{
+    position: absolute;
+    right: 50px;
+    bottom: 15px;
+    cursor: pointer;
+}
+.info  span{
+    margin-left: 8px;
+    font-size: 14px;
+}
+
+        
+
